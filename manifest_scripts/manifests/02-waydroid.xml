@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
   <project path="external/libdrm" name="WayDroid/android_external_libdrm" remote="ghub" revision="refs/heads/lineage-17.1" />
-  <project path="external/mesa3d" name="WayDroid/android_external_mesa3d" remote="ghub" revision="refs/heads/lineage-17.1" />
+  <project path="external/mesa3d" name="Lutjens-PoL/android_external_mesa3d" remote="ghub" revision="refs/heads/lineage-17.1" />
   <project path="hardware/intel/common/libva" name="WayDroid/android_hardware_intel_common_libva" remote="ghub" revision="refs/heads/lineage-17.1" />
 
   <!-- WayDroid -->
